@@ -4,14 +4,13 @@
 Aug-1
 
 ### Project Title
-Sharebike
+Bikeshares
 
 ### Description
-Describe what your project is about and what it does
+Bikeshares
 
 ### Files used
-Include the files used
+Bikeshares
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Bikeshares
