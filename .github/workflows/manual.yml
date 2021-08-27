@@ -2,8 +2,16 @@
 # a JIRA ticket gets created automatically.
 name: Manual Workflow
 
+<<<<<<< HEAD
 # Controls when the action will run.
 on:
+||||||| 06513a5
+# Controls when the action will run. 
+on:
+=======
+# Controls when the action will run. 
+on:-
+>>>>>>> a3c47fc4f13e3d60c14b804f2683e5f14dff3953
   # Triggers the workflow on pull request events but only for the master branch
   pull_request_target:
     types: [assigned, opened, reopened]
